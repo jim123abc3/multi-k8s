@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <h1>Fib Calculator K8S</h1>
+          <h1>Fib Calculator K8S </h1>
           <img src={logo} className="App-logo" alt="logo" />
           <p></p>
           <a
